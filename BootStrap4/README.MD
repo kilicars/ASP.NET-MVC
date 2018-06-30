@@ -1,0 +1,3 @@
+Current ASP.NET MVC framework uses some CSS features that are not included in BootStrap4. If you create a new ASP.NET MVC application 
+and update the packages through Nuget Package Manager then you will get the last version of BootStrap and as a result you will see
+that the navigation bar is broken. You can find how to fix that...
